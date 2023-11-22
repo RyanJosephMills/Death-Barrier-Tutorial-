@@ -27,5 +27,5 @@ Once you have changed that, you will then need to create an if statement, and in
 
 So, the final thing you must do is save the code inside Visual Studio, return to Unity, and click on the kill player inside the hierarchy. Then, inside the inspector, ensure the respawn number is the same as the scene you are currently on.
 ![image](https://github.com/RyanJosephMills/Death-Barrier-Tutorial-/assets/146854317/f6f66cbe-4e8a-473c-b2a3-9d26946f3c0b)
-
+# The Final Product
 https://github.com/RyanJosephMills/Death-Barrier-Tutorial-/assets/146854317/06e10284-490f-4794-801f-bd2d5d6b50b8
